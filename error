@@ -1,0 +1,105 @@
+14 (with shared sinks) 
+Repository 02 HDCA-hybris-homedepotampstorefront 
+
+Location 
+AcceleratorAddOnFilter.java: 247 
+Evidence in Code Source File: AcceleratorAddOnFilter.java protected void copyFileInternalIfNeeded(final String sourceAddOnFileName, final String targetWebAddOnFileName) throws IOException { 
+Line 243: final File sourceAddOnFile = new File(sourceAddOnFileName); 
+Line 244: final File targetAddOnFile = new File(targetWebAddOnFileName); Sink File: AcceleratorAddOnFilter.java 
+Line 247: LOG.warn("Add-on source file [" + sourceAddOnFileName + "] should exists "); 
+
+Location 
+RequireHardLoginEvaluator.java: 135 
+Evidence in Code Source 
+Line 122:protected boolean isGuidStoredinCookies(final HttpServletRequest request, final HttpServletResponse response, 
+Line:123 final String guid, final String guidCookieName) { Sink 
+Line 135: LOG.info("Found secure cookie with invalid value. expected [" + guid + "] actual [" + cookie.getValue()+ "]. removing."); 
+
+Location 
+SetLanguageBeforeControllerHandler.java: 72 
+Evidence in Code Source 
+Line 62: final String languageIdentifier = request.getParameter(languageParameter); Sink 
+Line 72: LOG.warn("Can not set session language to [" + languageIdentifier + "]. " + ile.getMessage()); 
+
+Location 
+VendorInvitationPageController.java: 169 
+Evidence in Code Source 
+Line 127: final Model model, final HttpSession session, RedirectAttributes redirectAttributes, final HttpServletRequest request, Sink 
+Line 169: LOG.info("v******** valid Session [request]*************** : " + request.getSession()); 
+
+~(No line found, fixed)
+
+Location 
+VendorInvitationPageController.java: 179 
+Evidence in Code Source 
+Line 127: final Model model, final HttpSession session, RedirectAttributes redirectAttributes, final HttpServletRequest request, Sink 
+Line 179: LOG.info("******** Invalid Session [request]*************** : " + request.getSession()); 
+
+
+~(No line found, fixed)
+
+Occurrences: 2 Repository 05 HDCA-hybris-homedepotcacommercewebservices 
+
+Location 
+OrdersController.java: 367 
+Evidence in Code Source 
+Line 364: final String ldapId = request.getParameter(HomedepotcaWebserviceConstants.ASSOCIATE_LOGIN_LDAP_ID); Sink 
+Line 367: LOG.info("Calling setLdapId of HDCheckoutFacada to set LDAP ID: " + ldapId); 
+
+Location ToolsController.java: 122 
+Evidence in Code Source 
+Line 121: final String requestReferrer = request.getHeader("referer"); Sink 
+Line 122: LOG.info("Request Header Referrer: " + requestReferrer); Occurrences: 7 (with shared sinks) 
+
+
+Repository 12 HDCA-hybris-homedepotcaredemptionstorefront 
+Location 
+AcceleratorAddOnFilter.java: 247 
+Evidence in Code Source File: AcceleratorAddOnFilter.java 
+protected void copyFileInternalIfNeeded(final String sourceAddOnFileName, final String targetWebAddOnFileName) throws IOException { 
+Line 243: final File sourceAddOnFile = new File(sourceAddOnFileName); 
+Line 244: final File targetAddOnFile = new File(targetWebAddOnFileName); Sink File: AcceleratorAddOnFilter.java 
+Line 247: LOG.warn("Add-on source file [" + sourceAddOnFileName + "] should exists "); 
+
+Location 
+RequireHardLoginEvaluator.java: 132 
+Evidence in Code Source 
+Line 120: final String guid, final String guidCookieName) Sink 
+Line 132: LOG.info("Found secure cookie with invalid value. expected [" + guid + "] actual [" + cookie.getValue()+ "]. removing."); 
+
+Location 
+SetLanguageBeforeControllerHandler.java: 72 
+Evidence in Code Source 
+Line 62: final String languageIdentifier = request.getParameter(languageParameter); Sink 
+Line 72: LOG.warn("Can not set session language to [" + languageIdentifier + "]. " + ile.getMessage()); 
+
+Occurrences: 10 (with shared sinks) 
+Repository 14 HDCA-hybris-homedepotcastorefront 
+Location 
+AcceleratorAddOnFilter.java: 247 
+Evidence in Code Source File: 
+AcceleratorAddOnFilter.java 
+protected void copyFileInternalIfNeeded(final String sourceAddOnFileName, final String targetWebAddOnFileName) throws IOException { 
+Line 243: final File sourceAddOnFile = new File(sourceAddOnFileName); 
+Line 244: final File targetAddOnFile = new File(targetWebAddOnFileName); 
+Sink File: AcceleratorAddOnFilter.java 
+Line 247: LOG.warn("Add-on source file [" + sourceAddOnFileName + "] should exists "); 
+
+Location RequireHardLoginEvaluator.java: 132 
+Evidence in Code Source 
+Line 120: final String guid, final String guidCookieName) Sink 
+Line 132: LOG.info("Found secure cookie with invalid value. expected [" + guid + "] actual [" + cookie.getValue()+ "]. removing."); 
+
+Location SetLanguageBeforeControllerHandler.java: 72 
+Evidence in Code Source 
+Line 62: final String languageIdentifier = request.getParameter(languageParameter); Sink
+ Line 72: LOG.warn("Can not set session language to [" + languageIdentifier + "]. " + ile.getMessage()); 
+
+ Location HDCAWorkShopEventRegistrationController.java: 291 
+Evidence in Code Source 
+Line 271: final String location = posData.getDisplayName() " " posData.getName(); … 
+Line 276: String language = "en"; Line 277: Locale locale = Locale.ENGLISH; 
+Line 278: for(Cookie cookie : cookies) 
+Line 279: { Line 280: if (LANGUAGE_COOKIE.equalsIgnoreCase(cookie.getName())) 
+Line 281: { Line 282: language = cookie.getValue(); Sink 
+Line 291: LOGGER.info("location and language are -->"location","+language);

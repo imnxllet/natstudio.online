@@ -1,0 +1,85 @@
+<TVshow>
+	<title>Game of Thrones</title>
+	<leadActors>
+		<Actor>
+			<name>Peter Dinklage</name>
+		</Actor>
+		<Actor>
+			<name>Lena Headey</name>
+		</Actor>
+		<Actor>
+			<name>Emilia Clarke</name>
+		</Actor>
+		<Actor>
+			<name>Kit Harington</name>
+		</Actor>
+	</leadActors>
+
+	<description>Game of Thrones is an American fantasy drama television series created by David Benioff and D. B. Weiss. It is an adaptation of A Song of Ice and Fire, George R. R. Martin's series of fantasy novels, the first of which is A Game of Thrones. It is filmed in Belfast and elsewhere in the United Kingdom, Canada, Croatia, Iceland, Malta, Morocco, Spain, and the United States. The series premiered on HBO in the United States on April 17, 2011, and its seventh season ended on August 27, 2017. The series will conclude with its eighth season premiering in 2019.</description>
+
+	<promoImage>https://upload.wikimedia.org/wikipedia/en/d/d8/Game_of_Thrones_title_card.jpg</promoImage>
+
+	<seasons>
+		<season>
+			<promoImage>https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Game_of_Thrones_Season_1.jpg/220px-Game_of_Thrones_Season_1.jpg</promoImage>
+			<episodes>
+				<episode>
+					<title>ep1-Winter Is Coming</title>
+					<airDate>20110417</airDate>
+					<description>In the Seven Kingdoms of Westeros, a soldier of the ancient Night's Watch order survives an attack by supernatural creatures known as the White Walkers, thought until now to be myth. He rushes to Castle Winterfell, which is ruled by Eddard "Ned" Stark, Warden of the North, who decapitates the soldier for deserting his post. In King's Landing, the capital, Jon Arryn, the "Hand of the King", dies under mysterious circumstances. King Robert Baratheon, Ned's longtime friend, travels to Winterfell, offering the position to him and also proposing marriage between his firstborn son Joffrey and Ned's older daughter Sansa. Ned's wife Catelyn receives a letter from her sister Lysa, Jon Arryn's widow, saying that she has escaped King's Landing and that Jon was murdered by the Lannisters, Queen Cersei's family. Catelyn burns the letter and tells Ned about it, believing that the Lannisters are plotting against Robert. Ned's 10-year-old son, Brandon, climbs a tower, where he witnesses Cersei having sex with her twin brother, Jaime, who then pushes him out the window from a presumably fatal height. Meanwhile across the narrow sea in Essos, the exiled Prince Viserys Targaryen makes a deal with the Dothraki warlord Khal Drogo, who marries Viserys' younger sister, Daenerys, in exchange for an army to conquer Westeros and reclaim the Iron Throne.</description>
+				</episode>
+				<episode>
+					<title>ep2-The Kingsroad</title>
+					<airDate>20110424</airDate>
+					<description>Having accepted his new role as the Hand of the King, Ned leaves Winterfell with his daughters Sansa and Arya, while Catelyn stays behind to tend to Bran. The unconscious Bran is attacked by an assassin, but his direwolf saves him. Catelyn decides to go to King's Landing to tell Ned about the attempt and suspected Lannister involvement. Jon Snow, Ned's illegitimate son, heads north to join the brotherhood of the Night's Watch, protectors of the Wall that keeps the White Walkers and the wildlings from entering civilized Westeros. Tyrion, Cersei's brother, decides to forgo the trip south with his family and instead accompanies Snow's entourage to the Wall. When Joffrey threatens Arya and her friend, Arya's direwolf defends her and escapes, provoking a conflict between the Starks and the Lannisters. To resolve the insult, Cersei demands that Robert order Ned to execute Sansa's direwolf. In Winterfell, Brandon awakens from unconsciousness. Meanwhile, Daenerys focuses her attention on learning how to please Drogo.
+</description>
+				</episode>
+				<episode>
+					<title>ep3-Lord Snow</title>
+					<airDate>20110501</airDate>
+					<description>Ned joins the King's Small Council at King's Landing, capital of the Seven Kingdoms, and learns just how poorly Westeros is being managed. Catelyn tries to covertly warn her husband, but is intercepted by an old friend, Councillor Petyr "Littlefinger" Baelish. Bran learns he will never walk again. He does not remember the events leading to his fall. Jon struggles to adapt to life on the Wall, as he trains with a number of low-born recruits who are not impressed by his bloodline. Lord Commander Mormont asks Tyrion to plead with the King to send more men to the Night's Watch. Daenerys learns that she is pregnant, and begins to stand up to Viserys.
+</description>
+				</episode>
+				<episode>
+					<title>ep4-Cripples, Bastards, and Broken Things</title>
+					<airDate>20110508</airDate>
+					<description>Tyrion shares saddle modifications for Bran that will allow the paraplegic boy to ride before heading south. Ned searches for clues to the unexplained death of his mentor and predecessor Jon Arryn and in the process uncovers King Robert's illegitimate son. Robert and his guests witness a tournament honoring Ned. Jon takes measures to protect Samwell Tarly, an awkward and friendless boy, from the abuse of the Night's Watchmen. A frustrated Viserys clashes with his newly empowered sister. Sansa dreams of life as a queen, while Arya envisions a far different future. At a chance encounter in a roadside tavern, Catelyn rallies her father's allies and has Tyrion arrested for conspiring to murder her son.
+</description>
+				</episode>
+			</episodes>
+		</season>
+		<season>
+			<promoImage>https://vignette.wikia.nocookie.net/gameofthrones/images/1/17/Game_of_Thrones_War_is_Coming.jpg/revision/latest?cb=20120301142149</promoImage>
+			<episodes>
+				<episode>
+					<title>ep1-The North Remembers</title>
+					<airDate>20120401</airDate>
+					<description>To Cersei's dismay, Tyrion takes up his post as acting Hand at King's Landing. At Dragonstone, Stannis proclaims allegiance to Melisandre's new god and lays public claim to the Iron Throne, revealing Joffrey's bastardy. The latter orders the soldiers to slaughter Robert's bastards, one of whom, named Gendry, manages to escape King's Landing along with Arya. Having won three victories, Robb offers the Lannisters peace in exchange for the North's independence and Sansa's return, sending Theon to gain the support of Balon, his father, and Catelyn to seek alliance with Renly, who also claims the throne. Beyond the Wall, the Night's Watch finds shelter with Craster and his daughters/wives. In Essos, as her people slowly die in the Red Waste, Daenerys sends out riders for reconnaissance.
+</description>
+				</episode>
+				<episode>
+					<title>ep2-The Night Lands</title>
+					<airDate>20120408</airDate>
+					<description>Returning to his home of Pyke after nine years as the Starks' ward, Theon is reunited with his sister, Yara, and Balon, who despises Theon for his Northern ways and intends to win back his crown by force. Cersei rejects Robb's terms and Tyrion exiles Slynt, head of the Gold Cloaks, to the Wall, promoting Bronn to commander of the watch. On the road to the Wall, Arya reveals her true identity to Gendry. North of the Wall, Tarly is approached by one of Craster's daughters, Gilly, who is pregnant and fears for her unborn son; Snow is reluctant to help her despite Tarly's pleas. In the Red Waste, one of the horses returns to Daenerys with the severed head of its rider in a pouch, a message from one of her enemies. In Dragonstone, Davos, Stannis's henchman, recruits the pirate Salladhor Saan to Stannis' side, and the latter has sex with Melisandre to obtain the son his wife cannot give him. Snow discovers that Craster sacrifices his sons to the White Walkers; in response, Craster knocks Snow unconscious.
+</description>
+				</episode>
+				<episode>
+					<title>ep3-What Is Dead May Never Die</title>
+					<airDate>20120415</airDate>
+					<description>Catelyn arrives at Renly's camp to negotiate an alliance, watching the female warrior Brienne of Tarth winning the right to join Renly's guard. Renly has recently married Margaery, Loras's sister, but refuses to have sex with her due to having feelings for Loras. In the Iron Islands, Balon makes a plan to attack the North, led by Yara. After burning a letter warning Robb of Balon's impending attack, Theon re-joins the Greyjoys in a water-based ceremony. In King's Landing, Tyrion crafts a plan to find who is in Cersei's confidence; finding it to be Pycelle, whom the former imprisons. Tyrion assigns his prostitute, Shae, as handmaiden to Sansa. Beyond the Wall, Craster demands the Night's Watchmen leave. Snow finds out that Jeor already knew about Craster's felonies. On the road to the wall, the band of Night's Watch recruits are attacked by Lannister soldiers. Yoren is killed and Arya is taken prisoner. The latter states that Gendry was a boy already killed.
+</description>
+				</episode>
+				<episode>
+					<title>ep4-Garden of Bones</title>
+					<airDate>20120422</airDate>
+					<description>Catelyn tries to convince the Baratheon brothers to abandon their quarrel and unite against the Lannisters; but Stannis demands Renly submit to his command. Baelish visits her and offers a trade of Jaime for her daughters. Melisandre gives birth to a shadow creature. Sansa is abused by Joffrey in revenge for Robb's victories. Tyrion intervenes and in return, Joffrey is cruel to the prostitutes Tyrion sends him as "gifts". Tyrion releases Pycelle, but fires him from the Small Council. Tyrion also finds out about the incestuous relationship between Cersei and their cousin, Lancel, forcing the latter to spy on her by threatening to reveal it to Joffrey. Arya and Gendry are taken as captives to the castle of Harrenhal, where prisoners are tortured until death. Tywin arrives and stops the torture, picking her as his servant without knowing about her true identity. After her exhausting journey through the desert, Daenerys arrives at the gates of the prosperous city of Qarth, where Daxos, a member of the Council of Thirteen, convinces the others to let her caravan enter the city.
+</description>
+				</episode>
+			</episodes>
+		</season>	
+	</seasons>
+
+
+
+
+</TVshow>
